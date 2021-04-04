@@ -17,7 +17,7 @@ function AppMap() {
         } else {
             setIndex(index + 1);
         }
-        if (data[index].distance < 30) {
+        if (data[index].distance < 7) {
             beep();
         }
     }, 2000);
