@@ -1,0 +1,65 @@
+
+
+int trigPin=10;
+int echoPin=11;
+float  dur, dur2;
+float distance1, distance2=0;
+double speed1=0;
+float mySpeed=2.3;
+float collision;
+void setup() {
+  Serial.begin(9600);
+  pinMode(trigPin, OUTPUT);
+  pinMode(echoPin, INPUT);
+
+}
+
+void loop() {
+  //distance 1
+  digitalWrite(trigPin, LOW);
+  delayMicroseconds(5);
+  digitalWrite(trigPin, HIGH);
+  delayMicroseconds(10);
+  digitalWrite(trigPin, LOW);
+  dur= pulseIn(echoPin, HIGH);
+  pulseIn(echoPin,LOW);
+  distance1 = (dur * 0.034) / 2;
+  delay(100);
+  //distance 2
+  digitalWrite(trigPin, LOW);
+  delayMicroseconds(5);
+  digitalWrite(trigPin,HIGH);
+  delayMicroseconds(10);
+  digitalWrite(trigPin,LOW);
+  dur2=pulseIn(echoPin,HIGH);
+  distance2 = (dur2 * 0.034) / 2; 
+  speed1=abs((distance2-distance1))/0.1;
+  //printing
+  //Serial.print("Distance One = ");
+  /*
+  Serial.print(distance1);
+  Serial.print("cm");
+  Serial.print('\n');
+  Serial.print("Distance Two = ");
+  */
+  Serial.print(distance2);
+  //Serial.print("cm");
+  Serial.print('\n');
+  collision =distance2/speed1;
+  //Serial.print("speed: ");
+  Serial.print(speed1);
+  //Serial.print(" seconds");
+  Serial.print('\n');
+
+  if(abs(distance2-distance1>20)){
+
+    Serial.print("Watch out for stairs or a pothole");
+      
+    
+  }
+
+    Serial.print("object collision in: ");
+    Serial.print(collision);
+    Serial.print('\n');
+   
+}
