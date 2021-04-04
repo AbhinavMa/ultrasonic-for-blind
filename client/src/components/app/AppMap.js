@@ -39,8 +39,8 @@ function AppMap() {
         </div>
         <hr className="w-50 line" />
         <p>
-            You are traveling at {data[index].speed} cm/s.
-            There is an object {data[index].distance} cm ahead of you.
+            You are traveling at {data[index].speed} cm/s. <br />
+            There is an object {data[index].distance} cm ahead of you. <br />
             {data[index].label} seconds.
         </p>
     </div>
