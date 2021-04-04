@@ -1,0 +1,144 @@
+{
+  "data": [
+    {
+      "distance": 9.89,
+      "speed": 98.94,
+      "label": "object collision in: 0.10"
+    },
+    {
+      "distance": 9.27,
+      "speed": 5.95,
+      "label": "object collision in: 1.56"
+    },
+    {
+      "distance": 7.99,
+      "speed": 11.39,
+      "label": "object collision in: 0.70"
+    },
+    {
+      "distance": 8.14,
+      "speed": 2.55,
+      "label": "object collision in: 3.19"
+    },
+    {
+      "distance": 7.17,
+      "speed": 10.71,
+      "label": "object collision in: 0.67"
+    },
+    {
+      "distance": 8.19,
+      "speed": 10.2,
+      "label": "object collision in: 0.80"
+    },
+    {
+      "distance": 8.6,
+      "speed": 3.06,
+      "label": "object collision in: 2.81"
+    },
+    {
+      "distance": 8.4,
+      "speed": 1.02,
+      "label": "object collision in: 8.23"
+    },
+    {
+      "distance": 8.76,
+      "speed": 2.04,
+      "label": "object collision in: 4.29"
+    },
+    {
+      "distance": 8.55,
+      "speed": 1.02,
+      "label": "object collision in: 8.38"
+    },
+    {
+      "distance": 8.91,
+      "speed": 3.57,
+      "label": "object collision in: 2.50"
+    },
+    {
+      "distance": 8.55,
+      "speed": 3.06,
+      "label": "object collision in: 2.79"
+    },
+    {
+      "distance": 7.74,
+      "speed": 12.24,
+      "label": "object collision in: 0.63"
+    },
+    {
+      "distance": 6.7,
+      "speed": 10.37,
+      "label": "object collision in: 0.65"
+    },
+    {
+      "distance": 6.44,
+      "speed": 2.72,
+      "label": "object collision in: 2.37"
+    },
+    {
+      "distance": 6.82,
+      "speed": 0.68,
+      "label": "object collision in: 10.03"
+    },
+    {
+      "distance": 6.97,
+      "speed": 0.68,
+      "label": "object collision in: 10.25"
+    },
+    {
+      "distance": 6.9,
+      "speed": 0.51,
+      "label": "object collision in: 13.53"
+    },
+    {
+      "distance": 7.02,
+      "speed": 1.19,
+      "label": "object collision in: 5.90"
+    },
+    {
+      "distance": 7.46,
+      "speed": 4.42,
+      "label": "object collision in: 1.69"
+    },
+    {
+      "distance": 11.36,
+      "speed": 39.44,
+      "label": "object collision in: 0.29"
+    },
+    {
+      "distance": 9.93,
+      "speed": 13.94,
+      "label": "object collision in: 0.71"
+    },
+    {
+      "distance": 8.14,
+      "speed": 21.59,
+      "label": "object collision in: 0.38"
+    },
+    {
+      "distance": 8.14,
+      "speed": 0.0,
+      "label": "object collision in: inf"
+    },
+    {
+      "distance": 7.62,
+      "speed": 8.67,
+      "label": "object collision in: 0.88"
+    },
+    {
+      "distance": 7.02,
+      "speed": 10.2,
+      "label": "object collision in: 0.69"
+    },
+    {
+      "distance": 7.79,
+      "speed": 3.74,
+      "label": "object collision in: 2.08"
+    },
+    {
+      "distance": 7.48,
+      "speed": 3.06,
+      "label": "object collision in: 2.44"
+    }
+  ]
+}

@@ -1,13 +1,14 @@
-import logo from './logo.svg';
+import React from 'react';
+import 'bootstrap/dist/css/bootstrap.css';
 import './App.css';
 import TopNavBar from './components/shared/TopNavBar';
-import HomeScreen from './pages/HomeScreen';
+import AppScreen from './pages/AppScreen';
 
 function App() {
   return (
-    <div className="App">
+    <div>
       <TopNavBar />
-      <HomeScreen />
+      <AppScreen />
     </div>
   );
 }

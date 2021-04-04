@@ -1,0 +1,576 @@
+9.89
+98.94
+object collision in: 0.10
+9.27
+5.95
+object collision in: 1.56
+7.99
+11.39
+object collision in: 0.70
+8.14
+2.55
+object collision in: 3.19
+7.17
+10.71
+object collision in: 0.67
+8.19
+10.20
+object collision in: 0.80
+8.60
+3.06
+object collision in: 2.81
+8.40
+1.02
+object collision in: 8.23
+8.76
+2.04
+object collision in: 4.29
+8.55
+1.02
+object collision in: 8.38
+8.91
+3.57
+object collision in: 2.50
+8.55
+3.06
+object collision in: 2.79
+7.74
+12.24
+object collision in: 0.63
+6.70
+10.37
+object collision in: 0.65
+6.44
+2.72
+object collision in: 2.37
+6.82
+0.68
+object collision in: 10.03
+6.97
+0.68
+object collision in: 10.25
+6.90
+0.51
+object collision in: 13.53
+7.02
+1.19
+object collision in: 5.90
+7.46
+4.42
+object collision in: 1.69
+11.36
+39.44
+object collision in: 0.29
+9.93
+13.94
+object collision in: 0.71
+8.14
+21.59
+object collision in: 0.38
+8.14
+0.00
+object collision in: inf
+7.62
+8.67
+object collision in: 0.88
+7.02
+10.20
+object collision in: 0.69
+7.79
+3.74
+object collision in: 2.08
+7.48
+3.06
+object collision in: 2.44
+8.04
+5.61
+object collision in: 1.43
+8.76
+7.14
+object collision in: 1.23
+9.88
+12.58
+object collision in: 0.79
+9.11
+6.97
+object collision in: 1.31
+9.57
+4.93
+object collision in: 1.94
+11.25
+19.21
+object collision in: 0.59
+11.12
+3.06
+object collision in: 3.63
+12.48
+16.15
+object collision in: 0.77
+10.91
+18.02
+object collision in: 0.61
+11.46
+7.48
+object collision in: 1.53
+12.22
+7.82
+object collision in: 1.56
+13.29
+11.90
+object collision in: 1.12
+12.12
+14.62
+object collision in: 0.83
+11.82
+0.85
+object collision in: 13.90
+11.31
+2.72
+object collision in: 4.16
+12.17
+11.05
+object collision in: 1.10
+12.27
+6.80
+object collision in: 1.80
+11.87
+1.70
+object collision in: 6.98
+11.25
+3.74
+object collision in: 3.01
+11.36
+1.70
+object collision in: 6.68
+11.87
+5.27
+object collision in: 2.25
+12.84
+9.86
+object collision in: 1.30
+12.38
+3.40
+object collision in: 3.64
+11.88
+3.57
+object collision in: 3.33
+11.76
+0.34
+object collision in: 34.60
+11.66
+0.34
+object collision in: 34.30
+11.61
+0.68
+object collision in: 17.07
+11.97
+4.93
+object collision in: 2.43
+11.68
+2.21
+object collision in: 5.28
+12.29
+6.46
+object collision in: 1.90
+10.95
+13.09
+object collision in: 0.84
+10.74
+1.70
+object collision in: 6.32
+11.05
+3.23
+object collision in: 3.42
+10.08
+8.33
+object collision in: 1.21
+14.21
+38.59
+object collision in: 0.37
+10.69
+34.00
+object collision in: 0.31
+10.54
+4.25
+object collision in: 2.48
+10.64
+2.38
+object collision in: 4.47
+9.83
+2.21
+object collision in: 4.45
+8.38
+13.09
+object collision in: 0.64
+7.99
+6.80
+object collision in: 1.18
+8.50
+0.51
+object collision in: 16.67
+7.84
+6.80
+object collision in: 1.15
+7.62
+1.19
+object collision in: 6.40
+8.14
+0.51
+object collision in: 15.97
+8.30
+0.17
+object collision in: 48.80
+8.76
+0.85
+object collision in: 10.30
+8.70
+1.87
+object collision in: 4.65
+8.55
+1.53
+object collision in: 5.59
+9.01
+4.59
+object collision in: 1.96
+8.96
+0.34
+object collision in: 26.35
+9.40
+4.76
+object collision in: 1.97
+8.40
+7.82
+object collision in: 1.07
+8.70
+3.06
+object collision in: 2.84
+9.57
+6.46
+object collision in: 1.48
+11.00
+15.64
+object collision in: 0.70
+9.67
+13.09
+object collision in: 0.74
+9.72
+2.21
+object collision in: 4.40
+10.23
+7.48
+object collision in: 1.37
+10.15
+0.51
+object collision in: 19.90
+10.91
+8.16
+object collision in: 1.34
+8.76
+21.59
+object collision in: 0.41
+9.47
+9.69
+object collision in: 0.98
+8.59
+7.48
+object collision in: 1.15
+8.55
+0.34
+object collision in: 25.15
+8.86
+5.44
+object collision in: 1.63
+8.04
+9.18
+object collision in: 0.88
+12.68
+43.35
+object collision in: 0.29
+7.79
+52.19
+object collision in: 0.15
+7.48
+6.46
+object collision in: 1.16
+9.47
+15.98
+object collision in: 0.59
+9.01
+3.74
+object collision in: 2.41
+9.42
+5.44
+object collision in: 1.73
+8.40
+11.90
+object collision in: 0.71
+11.10
+26.35
+object collision in: 0.42
+7.53
+38.42
+object collision in: 0.20
+7.02
+8.50
+object collision in: 0.83
+11.92
+43.35
+object collision in: 0.27
+6.75
+54.91
+object collision in: 0.12
+6.75
+0.17
+object collision in: 39.70
+6.75
+0.00
+object collision in: inf
+8.28
+16.32
+object collision in: 0.51
+7.06
+11.05
+object collision in: 0.64
+7.62
+5.44
+object collision in: 1.40
+7.57
+0.68
+object collision in: 11.13
+7.92
+4.59
+object collision in: 1.73
+13.09
+47.43
+object collision in: 0.28
+8.53
+45.22
+object collision in: 0.19
+7.84
+9.69
+object collision in: 0.81
+7.53
+3.06
+object collision in: 2.46
+8.04
+1.02
+object collision in: 7.88
+6.82
+12.24
+object collision in: 0.56
+7.74
+9.35
+object collision in: 0.83
+7.51
+2.21
+object collision in: 3.40
+29.82
+223.89
+Watch out for stairs or a potholeobject collision in: 0.13
+6.75
+223.89
+object collision in: 0.03
+6.29
+4.59
+object collision in: 1.37
+8.60
+18.36
+object collision in: 0.47
+8.35
+2.21
+object collision in: 3.78
+7.57
+7.82
+object collision in: 0.97
+9.04
+10.03
+object collision in: 0.90
+23.83
+149.09
+object collision in: 0.16
+7.51
+154.19
+object collision in: 0.05
+6.36
+11.56
+object collision in: 0.55
+8.76
+24.14
+object collision in: 0.36
+8.76
+2.38
+object collision in: 3.68
+9.42
+6.63
+object collision in: 1.42
+24.70
+149.60
+object collision in: 0.17
+7.82
+169.49
+object collision in: 0.05
+8.59
+4.25
+object collision in: 2.02
+8.96
+4.76
+object collision in: 1.88
+9.55
+2.38
+object collision in: 4.01
+7.68
+21.59
+object collision in: 0.36
+7.36
+3.23
+object collision in: 2.28
+8.35
+9.69
+object collision in: 0.86
+8.70
+3.57
+object collision in: 2.44
+8.30
+4.08
+object collision in: 2.03
+8.14
+1.36
+object collision in: 5.99
+6.72
+14.28
+object collision in: 0.47
+7.36
+2.55
+object collision in: 2.89
+7.41
+0.51
+object collision in: 14.53
+7.06
+3.74
+object collision in: 1.89
+6.65
+3.57
+object collision in: 1.86
+6.75
+4.25
+object collision in: 1.59
+6.77
+0.17
+object collision in: 39.80
+6.70
+0.34
+object collision in: 19.70
+10.90
+36.72
+object collision in: 0.30
+8.04
+26.18
+object collision in: 0.31
+8.23
+1.87
+object collision in: 4.40
+9.11
+8.16
+object collision in: 1.12
+8.65
+0.51
+object collision in: 16.97
+7.58
+10.37
+object collision in: 0.73
+7.53
+0.51
+object collision in: 14.77
+8.48
+8.67
+object collision in: 0.98
+8.45
+0.51
+object collision in: 16.57
+8.96
+5.44
+object collision in: 1.65
+2180.20
+21713.76
+Watch out for stairs or a potholeobject collision in: 0.10
+8.84
+157.93
+object collision in: 0.06
+8.09
+6.29
+object collision in: 1.29
+9.83
+17.00
+object collision in: 0.58
+7.82
+19.72
+object collision in: 0.40
+9.11
+13.77
+object collision in: 0.66
+7.06
+20.23
+object collision in: 0.35
+7.12
+0.68
+object collision in: 10.47
+6.75
+7.65
+object collision in: 0.88
+7.11
+4.59
+object collision in: 1.55
+7.12
+0.17
+object collision in: 41.90
+7.57
+3.91
+object collision in: 1.93
+7.68
+3.06
+object collision in: 2.51
+9.21
+15.47
+object collision in: 0.60
+7.28
+22.61
+object collision in: 0.32
+6.24
+10.37
+object collision in: 0.60
+7.31
+6.46
+object collision in: 1.13
+7.38
+0.51
+object collision in: 14.47
+7.33
+0.51
+object collision in: 14.37
+8.25
+8.33
+object collision in: 0.99
+6.72
+14.28
+object collision in: 0.47
+7.33
+1.87
+object collision in: 3.92
+7.67
+3.57
+object collision in: 2.15
+7.26
+4.25
+object collision in: 1.71
+7.28
+0.17
+object collision in: 42.80
+7.16
+0.00
+object collision in: inf
+9.11
+19.55
+object collision in: 0.47
+22.61
+130.73
+object collision in: 0.17
